@@ -1,0 +1,1 @@
+web: gunicorn mashuplibrary.wsgi --log-file -
